@@ -38,9 +38,9 @@ export default function Stack() {
     <div className="w-full h-[80vh] flex flex-col justify-center items-center gap-10 mt-[200px] md:mt-0" id="technologies">
       <h1 className="text-4xl font-bold text-center">Technologies I use</h1>
       <div className="flex flex-wrap gap-5 max-w-[600px]  justify-center">
-        {STACK_IMAGES.map((stack) => {
+        {STACK_IMAGES.map((stack, index) => {
           return (
-            <div key={stack} className="bg-[#333333] rounded-xl p-4 flex items-center justify-center">
+            <div key={stack + '' + index} className="bg-[#333333] rounded-xl p-4 flex items-center justify-center">
             <Image  src={stack} alt="/" width={75} height={75}/>
             </div>
           );
