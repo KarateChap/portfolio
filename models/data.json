@@ -1,0 +1,117 @@
+[
+  {
+    "id": 0,
+    "name": "Byte Bot",
+    "description": "A user friendly text-based virtual assistant that can play music, write and draw, browse the web.",
+    "yearCreated": "2018 - Created in my first year in college.",
+    "repository": "https://github.com/KarateChap/Byte-Bot.git",
+    "techStack": ["java"],
+    "images": [
+      "/bytebot/Byte Bot.jpg",
+      "/bytebot/Byte Bot 2.PNG",
+      "/bytebot/Byte Bot 3.PNG",
+      "/bytebot/Byte Bot 4.PNG",
+      "/bytebot/Byte Bot 5.PNG"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Home Security and Safety Automation",
+    "description": "This project aims to provide a technology that can be helpful in monitoring and detecting hazards that occurs at homes. The invention consists of various sensors that allows you to know what danger might rise up. The said invention was called Home Safety and Security Automation. The project will be a great help for every family because it will lessen your worry about the safety and security of your home",
+    "yearCreated": "2019 - Created in my Second year in College.",
+    "repository": "https://github.com/KarateChap/Home-Security-and-Safety-Automation.git",
+    "techStack": ["cpp"],
+    "images": [
+      "/Home Security and Safety Automation/HSASA 1.jpg",
+      "/Home Security and Safety Automation/HSASA 2.jpg",
+      "/Home Security and Safety Automation/HSASA 3.jpg",
+      "/Home Security and Safety Automation/HSASA Circuit diagram.PNG"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kumpares POS",
+    "description": "Kumpares aims to help the Kumpares in Guiguinto branch to improve the quality of their transaction and to lessen human errors. this system has various features such as managing employees, products, payments in cash or in crypto, and more.",
+    "yearCreated": "2020 - Created in my Third year in College.",
+    "repository": "https://github.com/KarateChap/Kumpares-POS.git",
+    "techStack": ["cs", "mySql"],
+    "images": [
+      "/Kumpares POS System/kumpares1.PNG",
+      "/Kumpares POS System/kumpares2.PNG",
+      "/Kumpares POS System/kumpares3.PNG",
+      "/Kumpares POS System/kumpares4.PNG",
+      "/Kumpares POS System/kumpares5.PNG",
+      "/Kumpares POS System/kumpares6.PNG",
+      "/Kumpares POS System/kumpares7.PNG",
+      "/Kumpares POS System/kumpares8.PNG",
+      "/Kumpares POS System/kumpares9.PNG",
+      "/Kumpares POS System/kumpares10.PNG"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Panntea PH - Admin",
+    "description": "Panntea PH is a combination of 3 applications created for the administrator (web-app), customers (Mobile Application), and delivery riders (Progressive Web App) that aims to simplify the transactions of Panntea PH, a store that offers Milk Tea Beverages located in Marulas Valenzuela City. Panntea PH became the best Capstone/Thesis project in our College of Engineering and Information Technology Department.",
+    "yearCreated": "2021 - Created in my Third year in College as our Thesis.",
+    "repository": "https://github.com/KarateChap/Panntea-admin-app.git",
+    "techStack": ["angular", "firebase", "javascript", "html", "css"],
+    "images": [
+      "/Admin App/Dashboard.png",
+      "/Admin App/Feeds.png",
+      "/Admin App/login.png",
+      "/Admin App/Notification.png",
+      "/Admin App/Products.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Panntea PH - Delivery",
+    "description": "Panntea PH is a combination of 3 applications created for the administrator (web-app), customers (Mobile Application), and delivery riders (Progressive Web App) that aims to simplify the transactions of Panntea PH, a store that offers Milk Tea Beverages located in Marulas Valenzuela City. Panntea PH became the best Capstone/Thesis project in our College of Engineering and Information Technology Department.",
+    "yearCreated": "2021 - Created in my Third year in College as our Thesis.",
+    "repository": "https://github.com/KarateChap/Panntea-delivery-app.git",
+    "techStack": ["ionic", "javascript", "html", "css", "firebase"],
+    "images": [
+      "/Delivery App/delivery5.png",
+      "/Delivery App/delivery4.png",
+      "/Delivery App/delivery3.png",
+      "/Delivery App/delivery2.png",
+      "/Delivery App/delivery1.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Panntea PH - Mobile",
+    "description": "Panntea PH is a combination of 3 applications created for the administrator (web-app), customers (Mobile Application), and delivery riders (Progressive Web App) that aims to simplify the transactions of Panntea PH, a store that offers Milk Tea Beverages located in Marulas Valenzuela City. Panntea PH became the best Capstone/Thesis project in our College of Engineering and Information Technology Department.",
+    "yearCreated": "2021 - Created in my Third year in College as our Thesis.",
+    "repository": "https://github.com/KarateChap/panntea-mobile-app.git",
+    "techStack": ["ionic", "javascript", "html", "css", "firebase"],
+    "images": [
+      "/Mobile App/mobile1.png",
+      "/Mobile App/mobile2.png",
+      "/Mobile App/mobile3.png",
+      "/Mobile App/mobile4.png",
+      "/Mobile App/mobile5.png",
+      "/Mobile App/mobile6.png",
+      "/Mobile App/mobile7.png",
+      "/Mobile App/mobile8.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "CEIT Faculty Loading System",
+    "description": "The CEIT Faculty Loading Application is a Web-App created using Angular Framework and Firebase Firestore that allows the creation of Faculty Load in two different modes. The first Class Schedule Mode, where the chairpersons can edit the loads per section. The second mode is the Faculty Mode, where the Chairpersons can edit the loads per faculty. The Faculty Loading Application also automates the checking and validation of all submitted loads per chairperson as well as providing updates and real time notifications about the load submitted.",
+    "yearCreated": "2022 - Created in my Fourth Year in College",
+    "repository": "https://github.com/KarateChap/faculty-loading.git",
+    "techStack": ["angular", "firebase"],
+    "images": [
+      "/CEIT Faculty Loading System/fls1.png",
+      "/CEIT Faculty Loading System/fls2.png",
+      "/CEIT Faculty Loading System/fls3.png",
+      "/CEIT Faculty Loading System/fls4.png",
+      "/CEIT Faculty Loading System/fls5.png",
+      "/CEIT Faculty Loading System/fls6.png",
+      "/CEIT Faculty Loading System/fls7.png"
+    ]
+  }
+
+]
