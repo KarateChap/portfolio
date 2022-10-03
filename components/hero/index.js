@@ -28,9 +28,9 @@ export default function Hero() {
         problems, coding, gaming, and reading books.{" "}
         <span className="text-yellow-300">I love computer a lot.</span>
       </p>
-      <div>
+      <div className="mt-6">
         <Link
-          to="about"
+          to="works"
           spy={true}
           smooth={true}
           offset={50}
