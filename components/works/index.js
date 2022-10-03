@@ -71,7 +71,7 @@ export default function Works(props) {
 
 
   return (
-    <div className="w-full h-[100vh] p-10 flex flex-col justify-center items-center gap-10 select-none" id="works">
+    <div className="w-full h-[100vh] p-10 flex flex-col justify-center items-center gap-10 select-none" id="works" data-aos='flip-left' data-aos-duration="500">
       <h1 className="text-4xl font-bold">My Works</h1>
       <div className="w-full h-[auto] border border-1 border-yellow-300 rounded-xl">
         <div className="w-full h-[60px] rounded-tr-xl rounded-tl-xl border border-1 border-yellow-300 flex sm:justify-center pl-5 sm:pl-0 items-center gap-10 relative">
