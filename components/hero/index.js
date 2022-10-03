@@ -35,7 +35,7 @@ export default function Hero() {
           smooth={true}
           offset={50}
           duration={500}
-          className="border border-1 border-yellow-300 px-10 py-3 mt-6 rounded-md hover:bg-yellow-300/10 transition-all duration-300 "
+          className="border border-1 border-yellow-300 px-10 py-3 mt-6 rounded-md hover:bg-yellow-300/10 transition-all duration-300 hover:cursor-pointer"
         >
           See my works
         </Link>
