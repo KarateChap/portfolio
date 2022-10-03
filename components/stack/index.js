@@ -6,7 +6,7 @@ import Ionic from "@public/stack/Ionic.png";
 import Html from "@public/stack/Html.png";
 import Css from "@public/stack/Css.png";
 import Java from "@public/stack/Java.png";
-import cpp from "@public/stack/cpp.png";
+import cpp from "@public/stack/Cpp.png";
 import MySql from "@public/stack/MySql.png";
 import Cs from "@public/stack/Cs.png";
 import Solidity from "@public/stack/solidity.png";
