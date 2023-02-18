@@ -83,7 +83,7 @@ export default function Navbar() {
           <div className="cursor-pointer"></div>
           <button className="text-sm bg-yellow-300/10 px-4 py-2 tracking-wider border border-1 border-yellow-300 rounded-md flex text-yellow-300">
             <a
-              href="https://drive.google.com/file/d/1y6VK9vo8yVEDh3Ju38DBQvFWcE-LIpku/view?usp=sharing"
+              href="https://drive.google.com/file/d/1C_vEwqj7-0TqIUgucx4X9o4Bvr3RcAm2/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
