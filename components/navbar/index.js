@@ -159,7 +159,7 @@ export default function Navbar() {
             <div className="w-full flex justify-center mt-10">
               <button className="text-sm bg-yellow-300/10 px-4 py-2 tracking-wider border border-1 border-yellow-300 rounded-md flex text-yellow-300">
                 <a
-                  href="https://drive.google.com/file/d/1vSpNwagXuSoLm5tfs3Cmu7ZE8TPdDUFS/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1K77RdeNIyBJlAhB6Y_aW0JC0NZsFN-zM/view?usp=share_link"
                   target="_blank"
                   rel="noreferrer"
                 >
